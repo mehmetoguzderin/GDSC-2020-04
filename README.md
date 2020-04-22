@@ -5,4 +5,6 @@ Discord invitation dispatcher for DSC IZTECH
 - Cloud Firestore
 - Cloud Functions
 - Cloud Pub/Sub
+- Cloud Scheduler
 - Google Sheets API
+- Mailgun
